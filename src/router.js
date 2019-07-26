@@ -10,7 +10,7 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'ships',
+      name: 'Ships',
       component: Ships
     },
     {
